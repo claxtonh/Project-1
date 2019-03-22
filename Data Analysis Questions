@@ -1,0 +1,11 @@
+# number of monsters
+# group by type
+    Number of monsters per type
+    Average for each stat (per type) (bar graphs comparing a single stat across monster types)
+# Whiskers plot for challenge ratings of monsters
+# Whiskers plot for hit points of monsters
+# Maybe a scatter plot of challenge rating vs monster hit points
+
+
+Classes and Features
+#Identify most popular features (meaning most classes have this feature)
